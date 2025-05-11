@@ -9,7 +9,7 @@ I am a learner of the **ALX Software Engineering Program**, currently on a journ
 > My aim is to become a world-class developer building scalable and inclusive digital solutions.
 
 🛠️ **I would like to work on:**  
-> open-source tools, community-focused apps, edtech platforms, AI-driven web apps.
+> open-source tools, community-focused apps, AI-driven web apps.
 
 ---
 
