@@ -17,7 +17,7 @@ I am a learner of the **ALX Software Engineering Program**, currently on a journ
 
 ```html
 💻 Languages: JavaScript, HTML5, CSS3, Python  
-🧪 Frameworks & Libraries: React.js, Express.js, Node.js  
-📦 Tools & Platforms: Git, GitHub, VS Code, MongoDB  
-🧠 Currently Learning: Docker, Next.js, TypeScript
+🧪 Frameworks & Libraries: React.js, Express.js, Node.js, Django 
+📦 Tools & Platforms: Git, GitHub, VS Code,Postgres, MySQL
+🧠 Currently Learning: Docker, Kubernetes, Microservices, Linux
 ```
