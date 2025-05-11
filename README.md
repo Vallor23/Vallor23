@@ -6,7 +6,7 @@ I am a learner of the **ALX Software Engineering Program**, currently on a journ
 > I started with software engineering because I’m passionate about solving real-world problems with technology. What inspires me most is building impactful tools.
 
 🎯 **Vision:**  
-> My aim is to become a world-class developer building scalable and inclusive digital solutions” or “launch a startup that transforms education access.
+> My aim is to become a world-class developer building scalable and inclusive digital solutions.
 
 🛠️ **I would like to work on:**  
 > open-source tools, community-focused apps, edtech platforms, AI-driven web apps.
