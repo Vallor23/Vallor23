@@ -25,25 +25,25 @@ Open-source tools, community-focused apps, AI-driven web applications.
 
 ### 📊 GitHub Stats
 
-![Enos's GitHub stats](https://github-readme-stats.vercel.app/api?username=enosnyabinda&show_icons=true&theme=radical)
+![Enos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vallor23&show_icons=true&theme=radical)
 
 ---
 
 ### 💬 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enosnyabinda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallor23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enosnyabinda&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vallor23&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enosnyabinda&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vallor23&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
