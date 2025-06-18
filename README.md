@@ -16,9 +16,9 @@ Open-source tools, community-focused apps, AI-driven web applications.
 
 ### 🧰 Technologies & Tools
 
-- 💻 **Languages:** JavaScript, HTML5, CSS3, Python  
+- 💻 **Languages:** JavaScript, HTML5, CSS3, Python, Shell 
 - 🧪 **Frameworks & Libraries:** React.js, Express.js, Node.js, Django  
-- 📦 **Tools & Platforms:** Git, GitHub, VS Code, Postgres, MySQL  
+- 📦 **Tools & Platforms:** Git, Git Flow, Postgres, MySQL  
 - 🧠 **Currently Learning:** Docker, Kubernetes, Microservices, Linux  
 
 ---
