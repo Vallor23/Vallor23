@@ -13,6 +13,12 @@ I am a learner of the **ALX Software Engineering Program**, currently on a journ
 
 ---
 
+### 📊 GitHub Stats
+
+![Enos's GitHub stats](https://github-readme-stats.vercel.app/api?username=enosnyabinda&show_icons=true&theme=radical)
+
+---
+
 ## 🧰 Technologies & Tools
 
 ```html
