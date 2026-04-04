@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Enos Nyabinda
 
 🌱 **About Me**  
-I am a learner of the **ALX Software Engineering Program**, currently on a journey to master **full-stack development**.
+I am a Junior Telecommunication Engineer**, currently on a journey to master **cybersecurity*.
 
 💡 **Why I started this journey**  
 I started with software engineering because I’m passionate about solving real-world problems with technology. What inspires me most is building impactful tools.
