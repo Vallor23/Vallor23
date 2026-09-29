@@ -27,4 +27,26 @@ I'm an engineer turned data professional. At Safaricom, I work in Group Data & I
 
 - 💻 **Languages:** Python, SQL, JavaScript, HTML5, CSS3, Shell
 - 📈 **Data & BI:** Qlik Sense, Apache NiFi, PostgreSQL, MySQL
-- 🧪 **Frameworks &
+- 🧪 **Frameworks & Libraries:** React.js, Express.js, Node.js, Django
+- 📦 **Tools & Platforms:** Git, Git Flow, Linux, Docker
+- 🧠 **Currently Learning:** Data engineering (pipelines and orchestration), Kubernetes, Microservices
+
+---
+
+### 💡 Open to Collaborating On
+
+Data tools, open-source projects, community-focused apps, and AI-driven applications.
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/enos-nyabinda-7602b2271/)
+
+---
+
+### 📊 GitHub Stats
+
+![Enos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vallor23&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallor23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vallor23&theme=radical&hide_border=true)](https://git.io/streak-stats)
